@@ -1,6 +1,6 @@
-# counter
+# Counter
 
-A new Flutter project.
+A Flutter project for counting.
 
 ## Getting Started
 
@@ -14,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Screenshot_20240216_153952](https://github.com/DarshanPatel311/counter/assets/143177575/31f9527c-0225-4523-bb1e-ba5cecbe447a)
+
+<!-- Add a screenshot or demo gif of your app below -->
+![Screenshot](https://example.com/path/to/your/screenshot.png)
