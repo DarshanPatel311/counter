@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <!-- Add a screenshot or demo gif of your app below -->
-<img src="https://example.com/path/to/your/screenshot.png" alt="Screenshot" width="400">
+<img src="https://example.com/path/to/your/screenshot.png" alt="Screenshot" width="400" height="auto"/>
